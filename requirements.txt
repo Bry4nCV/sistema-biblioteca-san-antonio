@@ -1,0 +1,7 @@
+# El proyecto utiliza exclusivamente la librería estándar de Python.
+# No requiere instalación externa adicional (Tkinter viene incluido por defecto en la mayoría de instalaciones de Python).
+
+# Bibliotecas estándar utilizadas:
+# - tkinter (Interfaz gráfica)
+# - datetime (Gestión de fechas y plazos de préstamos)
+# - abc (Clases abstractas e interfaces POO)
